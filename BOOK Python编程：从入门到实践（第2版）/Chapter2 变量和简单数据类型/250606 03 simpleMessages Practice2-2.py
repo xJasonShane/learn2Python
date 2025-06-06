@@ -1,0 +1,6 @@
+# Q:将一条消息赋给变量，并将其打印出来；再将变量的值修改为一条新消息，并将其打印出来。
+message = "Hello, World!"
+print(message)
+
+message = "This is a new message."
+print(message)
